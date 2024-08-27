@@ -35,4 +35,4 @@ Background color: The background color of the calculator is set to black using C
 Operation buttons: The buttons for arithmetic operations are styled with a yellow background color.
 Equal button: The equal button is styled with a green background color.
 
-
+Create a New Pen - Google Chrome 27-08-2024 21_47_46
